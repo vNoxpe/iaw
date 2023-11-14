@@ -12,5 +12,5 @@
 # Unidad 2: Instalación de gestores de contenido
 
 
--[Parte1](https://github.com/vNoxpe/iaw/blob/main/jekyll_github_pages.md
+-[Parte1](https://github.com/vNoxpe/iaw/blob/main/jekyll_github_pages.md)
 
