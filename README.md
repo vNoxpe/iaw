@@ -12,5 +12,6 @@
 # Unidad 2: Instalación de gestores de contenido
 
 -[minima](https://vnoxpe.github.io/minima/)
+
 -[markdown](https://github.com/vNoxpe/iaw/blob/main/jekyll_github_pages.md)
 
