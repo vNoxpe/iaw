@@ -11,6 +11,11 @@
 
 # Unidad 2: Instalación de gestores de contenido
 
+-[minima](https://vnoxpe.github.io/minima/)
 
--[Parte1](https://github.com/vNoxpe/iaw/blob/main/jekyll_github_pages.md)
+-[markdown](https://github.com/vNoxpe/iaw/blob/main/jekyll_github_pages.md)
+
+-[Lagrange](https://vnoxpe.github.io/Lagrange/)
+
+-[Jekyl-klisse](https://dainty-eclair-846930.netlify.app/)
 
