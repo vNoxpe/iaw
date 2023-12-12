@@ -19,3 +19,8 @@
 
 -[Jekyl-klisse](https://dainty-eclair-846930.netlify.app/)
 
+-[GithubPages](https://vnoxpe.github.io/Actividad-2/)
+
+-[Netlifly](https://singular-kleicha-7b7e21.netlify.app/)
+
+-[Actividad-2](https://github.com/vNoxpe/Actividad-2)
