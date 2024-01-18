@@ -29,6 +29,6 @@
 
 -[URL del sitio web en  Jekyll en Netlify](https://inspiring-dodol-4f887b.netlify.app/)
 
--[URL del sitio web en Jekyll  TOTALMENTE FINALIZADO en GitHub Pages ]([https://github.com/vNoxpe/jekyll-klise](https://vnoxpe.github.io/jekyll-klise/))
+-[URL del sitio web en Jekyll  TOTALMENTE FINALIZADO en GitHub Pages](https://vnoxpe.github.io/jekyll-klise/)
 
 -[Repositorio PERSONAL](https://github.com/vNoxpe/jekyll-klise)
