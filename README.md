@@ -26,3 +26,9 @@
 -[Netlifly](https://singular-kleicha-7b7e21.netlify.app/)
 
 -[Actividad-2](https://github.com/vNoxpe/Actividad-2)
+
+-[URL del sitio web en  Jekyll en Netlify](https://inspiring-dodol-4f887b.netlify.app/)
+
+-[URL del sitio web en Jekyll  TOTALMENTE FINALIZADO en GitHub Pages ](https://github.com/vNoxpe/jekyll-klise)
+
+-[]
